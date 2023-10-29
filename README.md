@@ -11,7 +11,9 @@
 3. Copy and paste `Heatbox` folder under `Plugins`
 
 # Project Settings
+
 ![alt_text](images/CollisionSettings.png "Collision Settings")
+
 Alternatively you can add this lines of code to `DefaultEngine` under `Config` folder.
 ```
 +DefaultChannelResponses=(Channel=ECC_GameTraceChannel1,DefaultResponse=ECR_Block,bTraceType=False,bStaticObject=False,Name="Flammable")
