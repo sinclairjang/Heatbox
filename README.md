@@ -26,6 +26,7 @@ You can test the plugin's features with the example map I set up for you and the
 
 ![alt_text](images/ExampleMap.png "Example Map")
 
-Play with `DT_FireSim_BoxInfo`. This data table contains core variables that affect the simulation.
+You may hit the play right away to get a feel for it.
+Or, play with `DT_FireSim_BoxInfo`. This data table contains core variables that affect the simulation.
 
 ![alt_text](images/DataTable.png "Data Table")
