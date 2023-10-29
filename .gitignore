@@ -6,6 +6,7 @@ Build
 
 .vscode
 .vs
+.vsconfig
 *.VC.db
 *.opensdf
 *.opendb
