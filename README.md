@@ -2,11 +2,13 @@
   <img width="128" height="128" src="images/logo.png">
 </p>
 
-
- 
-
 # Introduction
 [Notion Blog(한국어)](https://cuboid-tarantula-e0b.notion.site/Real-Time-Heat-Diffusion-4027725cc9e547aea4269ecee8bc0f40?pvs=4)
+## Demo
+![동영상 보기](https://raw.githubusercontent.com/sinclairjang/Heatbox/main/thumbnail.png)
+(Check full demo video: Training.mp4)
+
+![](Training.mov)
 
 # Installation
 1. Go to your project folder
